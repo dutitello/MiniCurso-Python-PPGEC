@@ -1,0 +1,35 @@
+#7.1 Matriz de rigidez local da barra
+   
+    k = np.array([[E*A[i]/L[i], 0, -E*A[i]/L[i], 0],
+                  [0, 0, 0, 0], 
+                  [-E*A[i]/L[i], 0, E*A[i]/L[i], 0],
+                  [0, 0, 0, 0]])
+
+
+#7.3, Matriz de rotação 
+    
+    tau = np.array([[ cosx[i], cosy[i], 0, 0],
+                    [-cosy[i], cosx[i], 0, 0],
+                    [0, 0,  cosx[i], cosy[i]],
+                    [0, 0, -cosy[i], cosx[i]]])
+
+#-------------------------------------------------------------------------        
+#6. Comprimento de cada barra e cossenos diretores
+#-------------------------------------------------------------------------  
+
+Lx   = np.zeros(nb)
+Ly   = np.zeros(nb)
+cosx = np.zeros(nb)
+cosy = np.zeros(nb)
+L    = np.zeros(nb)
+
+for n in range (nb):
+
+    k1      = int(IDN[0,n] -1)  # Indexador da matriz IDN
+    k2      = int(IDN[1,n] -1)  # Indexador da matriz IDN
+    Lx[n]   = cx[k2] - cx[k1]
+    Ly[n]   = cy[k2] - cy[k1]
+    L[n]    = np.sqrt(Lx[n]**2 + Ly[n]**2)
+    cosx[n] = Lx[n]/L[n]
+    cosy[n] = Ly[n]/L[n]
+    

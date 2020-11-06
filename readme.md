@@ -1,5 +1,7 @@
 # Python aplicado à análise de estruturas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4248235.svg)](https://doi.org/10.5281/zenodo.4248235)
+
 O curso tem por objetivo introduzir a linguagem de programação
 Python de forma aplicada à análise de estruturas. Serão abordados: a instalação do
 ambiente da linguagem; as interfaces de trabalho pré-instaladas (Spyder e Jupyter); os
@@ -11,6 +13,8 @@ construído empregando os conhecimentos adquiridos no curso.
 [_Eng. MSc Eduarto Pagnussat Titello_](https://github.com/dutitello/)
 
 [_Eng. Daniel Barbosa M. Matos_](https://github.com/danielbmmatos)
+
+``Eduardo Pagnussat Titello, & Daniel Barbosa Mapurunga Matos. (2020, November). Python aplicado à análise de estruturas (1 ed.) (Version ed1.0). Zenodo. http://doi.org/10.5281/zenodo.4248236``
 
 **PPGEC | UFRGS - 2020**
 

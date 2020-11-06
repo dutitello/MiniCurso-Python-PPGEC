@@ -28,4 +28,4 @@ construído empregando os conhecimentos adquiridos no curso.
 
 <h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula5.ipynb">Aula 5: Aplicação: Resolução de uma treliça plana</a></h3>
 
-<h4><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/raw/master/Apostila_Python.pdf">Apostila em PDF</a></h4>
+<h4><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/raw/main/Apostila_Python.pdf">Apostila em PDF</a></h4>

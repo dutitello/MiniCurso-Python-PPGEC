@@ -10,6 +10,10 @@ controle e funções); alguns módulos essenciais e suas funções e atributos. 
 apresentação da linguagem, um código para análise matricial de treliças planas é
 construído empregando os conhecimentos adquiridos no curso.
 
+**As gravações das aulas ministradas encontram-se disponíveis no YouTube, para acessa-las clique [aqui](https://www.youtube.com/playlist?list=PLplga9spXpG0iX3fR5IN_6y1PkeNE4TSJ).**
+
+---
+
 [_Eng. MSc Eduarto Pagnussat Titello_](https://github.com/dutitello/)
 
 [_Eng. Daniel Barbosa M. Matos_](https://github.com/danielbmmatos)
@@ -18,7 +22,7 @@ construído empregando os conhecimentos adquiridos no curso.
 
 **PPGEC | UFRGS - 2020**
 
-<br><br>
+<br>
 
 ## Conteúdo:
 
@@ -33,3 +37,4 @@ construído empregando os conhecimentos adquiridos no curso.
 <h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula5.ipynb">Aula 5: Aplicação: Resolução de uma treliça plana</a></h3>
 
 <h4><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/raw/main/Apostila_Python.pdf">Apostila em PDF</a></h4>
+

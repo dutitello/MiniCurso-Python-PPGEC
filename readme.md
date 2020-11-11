@@ -38,3 +38,4 @@ construído empregando os conhecimentos adquiridos no curso.
 
 <h4><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/raw/main/Apostila_Python.pdf">Apostila em PDF</a></h4>
 
+<h3><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/blob/main/TrelicaAoVivo.ipynb">Notebook da aula 5 construído ao vivo com a turma</a></h3>

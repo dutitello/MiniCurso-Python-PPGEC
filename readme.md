@@ -30,9 +30,9 @@ construído empregando os conhecimentos adquiridos no curso.
 
 <h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula2.ipynb">Aula 2: A Linguagem Python</a></h3>
 
-<h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula3.ipynb">Aula 3: Módulos Básicos - Parte 1</a></h3>
+<h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula3.ipynb">Aula 3: Módulos Básicos - Parte 1: NumPy e SciPy</a></h3>
 
-<h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula4.ipynb">Aula 4: Os módulos Pandas e Matplotlib</a></h3>
+<h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula4.ipynb">Aula 4: Módulos Básicos - Parte 2: Pandas e Matplotlib</a></h3>
 
 <h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula5.ipynb">Aula 5: Aplicação: Resolução de uma treliça plana</a></h3>
 

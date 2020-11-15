@@ -36,6 +36,11 @@ construído empregando os conhecimentos adquiridos no curso.
 
 <h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/Aula5.ipynb">Aula 5: Aplicação: Resolução de uma treliça plana</a></h3>
 
-<h4><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/raw/main/Apostila_Python.pdf">Apostila em PDF</a></h4>
+<h3><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/raw/main/Apostila_Python.pdf">Apostila em PDF</a></h3>
 
-<h3><a href="https://github.com/dutitello/MiniCurso-Python-PPGEC/blob/main/TrelicaAoVivo.ipynb">Notebook da aula 5 construído ao vivo com a turma</a></h3>
+
+## Notebooks adicionais:
+
+<h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/TrelicaAoVivo.ipynb">Notebook da aula 5 construído ao vivo com a turma</a></h3>
+
+<h3><a href="https://nbviewer.jupyter.org/github/dutitello/MiniCurso-Python-PPGEC/blob/main/OutroAlocamento.ipynb">Método alternativo de alocação da matriz de rígidez</a></h3>
